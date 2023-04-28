@@ -45,5 +45,6 @@
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-react": "^7.32.2",
     "typescript": "^5.0.4"
-  }
+  },
+  "gitHead": "86c9ba143d65f86636bbdc1024da67235cacf28d"
 }
