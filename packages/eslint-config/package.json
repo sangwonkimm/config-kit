@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sangwonkimm/config-kit.git"
+    "url": "git+https://github.com/sangwonkimm/config-kit.git"
   },
   "scripts": {
     "test": "node ./__tests__/eslint-config.test.js"
@@ -47,5 +47,6 @@
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-react": "^7.32.2",
     "typescript": "^5.0.4"
-  }
+  },
+  "gitHead": "e2645053adb92bcd560f8002befc81418d054232"
 }
