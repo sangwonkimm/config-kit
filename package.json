@@ -4,6 +4,9 @@
   "workspaces": [
     "packages/*"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "eslint": "^8.39.0",
     "lerna": "^6.6.1",
