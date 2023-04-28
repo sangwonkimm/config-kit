@@ -31,6 +31,7 @@
     "eslint-config-prettier": "^8.8.0",
     "eslint-plugin-import": "^2.27.5",
     "eslint-plugin-jsx-a11y": "^6.7.1",
+    "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-react": "^7.32.2",
     "typescript": "^5.0.4"
   },
@@ -42,6 +43,7 @@
     "eslint-plugin-import": "^2.27.5",
     "eslint-plugin-jsx-a11y": "^6.7.1",
     "eslint-plugin-react": "^7.32.2",
-    "typescript": "^5.0.4"
+    "typescript": "^5.0.4",
+    "eslint-plugin-prettier": "^4.2.1"
   }
 }

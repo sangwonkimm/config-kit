@@ -3,7 +3,7 @@ module.exports = {
     node: true,
     browser: true,
   },
-  extends: ["./rules/import"].map(require.resolve),
+  extends: ["./rules/import", "./rules/prettier"].map(require.resolve),
   parserOptions: {
     ecmaVersion: 2018,
     sourceType: "module",
