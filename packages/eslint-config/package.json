@@ -1,6 +1,6 @@
 {
   "name": "@aiden/eslint-config",
-  "version": "1.0.16",
+  "version": "1.0.17",
   "description": "aiden's ESLint Config",
   "author": "sangwonkimm <rlatkddnjs44@naver.com>",
   "license": "ISC",
