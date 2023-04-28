@@ -14,6 +14,9 @@
     "eslintconfig",
     "aiden"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/sangwonkimm/config-kit.git"
@@ -45,6 +48,5 @@
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-react": "^7.32.2",
     "typescript": "^5.0.4"
-  },
-  "gitHead": "ef69c339e6795e1766c36ef0ad282abd2b1f3325"
+  }
 }
