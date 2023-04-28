@@ -1,6 +1,6 @@
 {
   "name": "@aiden/eslint-config",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "aiden's ESLint Config",
   "author": "sangwonkimm <rlatkddnjs44@naver.com>",
   "homepage": "https://github.com/sangwonkimm/config-kit#readme",
