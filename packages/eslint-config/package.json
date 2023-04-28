@@ -9,6 +9,9 @@
   "files": [
     "rules/*.js"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "keywords": [
     "eslint",
     "eslintconfig",
