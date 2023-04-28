@@ -3,7 +3,6 @@
   "version": "1.0.8",
   "description": "aiden's ESLint Config",
   "author": "sangwonkimm <rlatkddnjs44@naver.com>",
-  "homepage": "https://github.com/sangwonkimm/config-kit#readme",
   "license": "ISC",
   "main": "index.js",
   "files": [
