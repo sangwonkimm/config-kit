@@ -3,6 +3,10 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.0.27 (2023-05-01)
+
+**Note:** Version bump only for package @iamaiden/eslint-config
+
 ## [1.0.26](https://github.com/sangwonkimm/config-kit/compare/@aiden/eslint-config@1.0.25...@aiden/eslint-config@1.0.26) (2023-05-01)
 
 **Note:** Version bump only for package @aiden/eslint-config
